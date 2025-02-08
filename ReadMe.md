@@ -267,8 +267,6 @@ result
 ```
 
 ## 參考資料
-[pandas介紹](https://medium.com/seaniap/pandas/)
-
 [pandas模組介紹](https://utrustcorp.com/python-pandas/)
 
 [pandas教學](https://yhtechnote.com/python-pandas/)
