@@ -1,4 +1,4 @@
-# $\Large{Pandas\; 自學\; }$
+# $\Large{Pandas\ 自學\ }$
 
 Pandas就像python裡的Excel，能幫助使用者在python中做到合併與切割各個表格資料的動作。Pandas具備強大的資料分析能力，結合其他python程式庫如numpy能幫助我們進入資料科學的領域。
 ## 大綱
